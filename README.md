@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAKTIM MONDAL</h1>
-<h3 align="center"> A 3rd year engineering Student .And also interested in business and entrepreneurship..</h3>
+<h3 align="center"> A 3rd year engineering Student .And also interested in business and entrepreneurship.II MEMBER OF GDG CLUB II SKILLED IN HTML,PYTHON,C & LITTLE BIT OF C++,CSS II </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [1.5 Year Experience of MLM company.](1.5 Year Experience of MLM company.)
 
-- ⚡ Fun fact **I am funny😅😎**
+- ⚡  fact **I am self motivated person😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
