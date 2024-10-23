@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raktimmondal956@gmail.com**
 
-- 📄 Know about my experiences [1.5 Year Experience of MLM company.](1.5 Year Experience of MLM company.)
+- 📄 Know about my experiences [1.5 Year Experience of MLM company.]
 
 - ⚡  fact **I am self motivated person😎**
 
