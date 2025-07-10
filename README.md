@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/raktimmondal956" target="blank"><img src="https://img.shields.io/twitter/follow/raktimmondal956?logo=twitter&style=for-the-badge" alt="raktimmondal956" /></a> </p>
 
-- 🌱 I’m currently learning **Html, CSS, JavaScript, NODEJS, Python and go on**👨🏻‍💻
+- 🌱 I’m currently learning **Html, CSS, JavaScript, ReactJS, TailwindCSS, Figma, Bootstrap and go on**👨🏻‍💻
 
 - 📫 How to reach me **raktimmondal956@gmail.com**
 
